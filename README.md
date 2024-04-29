@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # learn git
 
 hello world!
